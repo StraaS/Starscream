@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Starscream"
+  s.name         = "StraaSStarscream"
   s.module_name  = "StraaSStarscream" 
   s.version      = "3.0.7"
   s.summary      = "A conforming WebSocket RFC 6455 client library in Swift."
