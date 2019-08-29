@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "StraaSStarscream"
   s.module_name  = "StraaSStarscream" 
-  s.version      = "3.0.7"
+  s.version      = "3.0.8"
   s.summary      = "A conforming WebSocket RFC 6455 client library in Swift."
   s.homepage     = "https://github.com/daltoniam/Starscream"
   s.license      = 'Apache License, Version 2.0'
